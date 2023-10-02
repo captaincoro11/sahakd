@@ -111,6 +111,6 @@ input{
     }
     #scanner {
         max-width: 60vh;
-        height: 60vh;
+        height: 350px;
     }
 }
